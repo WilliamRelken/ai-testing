@@ -1,0 +1,6 @@
+pgvector
+sentence_transformers
+torch
+SQLAlchemy
+psycopg2-binary
+scipy
